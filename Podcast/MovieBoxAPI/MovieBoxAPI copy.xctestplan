@@ -1,0 +1,18 @@
+{
+  "configurations" : [
+    {
+      "id" : "FBB6953D-708A-4574-94DA-01D46AC501DC",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}

@@ -1,0 +1,20 @@
+{
+        "artistName": "iHeartPodcasts",
+        "id": "1714611578",
+        "name": "Who Killed JFK?",
+        "kind": "podcasts",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/1d/92/2b/1d922b3a-8753-44e7-fcce-bdfd8eaa44b9/mza_15604900241856564266.jpg/100x100bb.png",
+        "genres": [
+          {
+            "genreId": "1487",
+            "name": "History",
+            "url": "https://itunes.apple.com/us/genre/id1487"
+          },
+          {
+            "genreId": "1324",
+            "name": "Society \u0026 Culture",
+            "url": "https://itunes.apple.com/us/genre/id1324"
+          }
+        ],
+        "url": "https://podcasts.apple.com/us/podcast/who-killed-jfk/id1714611578"
+      }
